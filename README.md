@@ -1,8 +1,5 @@
-# React + Vite
+# 🏨 The Wild Oasis
+## 📌 Description
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📅 **June 2024 – July 2024**  
+Development of a **hotel management web application** designed for employees to manage **reservations and room assignments**, using **React** for the front-end and **Supabase** for the back-end. Implementation of an **intuitive user interface** allowing real-time availability management, creation and modification of reservations, and room allocation. Integration of **secure authentication** and an **access management system** for different user roles.
